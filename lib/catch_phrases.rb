@@ -4,7 +4,9 @@ def mario
   puts phrase = 'It's-a me, Mario!'"
  end
 
-mario
+def catch_phrase(phrase)
+  puts phrase
+end
 
 def toadstool
   puts status
